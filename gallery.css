@@ -1,0 +1,17 @@
+body{
+    background:cornsilk;
+    text-align:center;
+  }
+  img{
+    width:250px;
+    border:3px solid rgb(255, 174, 0);
+    padding:20px;
+    border-radius:20px;
+  }
+  #reason{
+    font-size:20px;
+    font-family:fangsong
+  }
+  #back{
+    margin-right:1000px;
+  }
